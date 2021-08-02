@@ -7,11 +7,13 @@
 * 💼 Connect me on Linkedin: https://www.linkedin.com/in/janie-lee-37a4811b9/
 
 ---
-[![github](https://github.githubassets.com/images/modules/open_graph/github-mark.png)][1]
-[![linkedin](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)][2]
+[![github](https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png)][1]
+[![linkedin](https://image.flaticon.com/icons/png/512/174/174857.png)][2]
 
 [1]: https://github.com/janie-lee-developer
 [2]: https://www.linkedin.com/in/janie-lee-37a4811b9/
+
+---
 
 ![Janie's github stats](https://github-readme-stats.vercel.app/api?username=janie-lee-developer)
 
