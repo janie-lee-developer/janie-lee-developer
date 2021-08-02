@@ -6,8 +6,8 @@
 * 📫 How to reach me: janie.lee.inquire@gmail.com
 * 💼 Connect me on Linkedin: https://www.linkedin.com/in/janie-lee-37a4811b9/
 
-https://www.linkedin.com/in/janie-lee-37a4811b9/ - automatic!
-[GitHub](https://www.linkedin.com/in/janie-lee-37a4811b9/)
+###Languages and Tools:
+[![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)](link to your URL)
 
 ![Janie's github stats](https://github-readme-stats.vercel.app/api?username=janie-lee-developer)
 
