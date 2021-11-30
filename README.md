@@ -1,5 +1,5 @@
 # Janie Lee's Github
-* 👋 Hi, I’m Janie Lee. I live near New York City, and I'm studied 4wks Immersive Software Engineering Program at App Academy. Day time a fashion designer, evening a self-teaching SWE student!
+* 👋 Hi, I’m Janie Lee. I live near New York City, and I studied 4wks Immersive Software Engineering Program at App Academy. Day time a fashion designer, evening a self-teaching SWE student!
 * 👀 I’m looking for a position in SWE internship/ junior position.
 * 🌱 Proficient with Ruby, JavaScript, React, Node.js.
 * 💞️ I’m looking to collaborate on developing web app and more!
