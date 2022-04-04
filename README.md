@@ -7,7 +7,7 @@
 * 💼 Connect me on Linkedin: 
   * https://www.linkedin.com/in/janie-lee-37a4811b9/
   * https://www.linkedin.com/in/janie-lee-8a24869a/
-* 💻 Leetcode: https://leetcode.com/janie-lee-developer/
+
 
 ---
 
