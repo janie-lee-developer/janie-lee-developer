@@ -3,7 +3,7 @@
 
 * Strong understandings in web development using JavaScript, React, Redux, Node, PSQL, Sequelize, MongoDB, WebSocket, Material UI and more!
 
-* 💼 I’m looking for a position in SWE internship/ junior position.
+* 💼 I’m looking for a Software Engineer position.
 
 * 📫 email: janie.lee.inquire@gmail.com
 * 🌏 Linkedin: 
