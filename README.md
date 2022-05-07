@@ -6,8 +6,7 @@
 * 💼 I’m looking for a Software Engineer position.
 
 * 📫 email: janie.lee.inquire@gmail.com
-* 🌏 Linkedin: 
-  * https://www.linkedin.com/in/janie-lee-developer/
+* 🌏 Linkedin: https://www.linkedin.com/in/janie-lee-developer/
 
 
 
