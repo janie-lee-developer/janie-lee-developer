@@ -1,5 +1,4 @@
 # Janie Lee's Github
-* 👋 A recent graduate of FullStack Academy's 6 months Software Engineering Program. Formerly, a Software Engineering Program student at App Academy for a month. Since pandemic, self-studied and earned few Udemy Web Development Certificates.
 
 * Strong knowledge in web development using JavaScript, React, Redux, Node, PSQL, Sequelize, MongoDB, WebSocket, Material UI, Heroku and more!
 
