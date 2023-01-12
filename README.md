@@ -10,7 +10,6 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janie-lee-developer)](https://github.com/janie-lee-developer/github-readme-stats)
 ![Janie's github stats](https://github-readme-stats.vercel.app/api?username=janie-lee-developer)
 
 
